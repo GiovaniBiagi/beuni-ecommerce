@@ -49,7 +49,6 @@ Apesar dos desafios mencionados acima, pude aprender diversas coisas novas, dent
 - Geração de metadados dinâmicos na nova estrutura do NextJS (App Router);
 - Melhor uso das server actions;
 - novos hooks do react-dom (useFormStatus e useFormState);
-- Eu sou um péssimo designer 👀;
 
 ## Pontos negativos
 
