@@ -4,6 +4,8 @@
 
 Bem-vindo ao projeto de ecommerce BeUni! Esta interface foi projetada para fornecer aos usuários uma experiência de compra perfeita, incorporando recursos como lista de desejos, carrinho de compras, filtragem, ordenação, categorização e busca de produtos.
 
+[Ver demo](https://beuni-ecommerce.vercel.app/products)
+
 ## Tecnologias Utilizadas
 
 - **Next.js**: Utilizado especialmente para renderização do lado servidor para melhorar a performance de SEO e carregamento de dados.
